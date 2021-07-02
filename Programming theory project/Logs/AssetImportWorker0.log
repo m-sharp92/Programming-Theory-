@@ -1,0 +1,517 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 16335 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Documents/Dad/GitHub/Programming-Theory-/Programming theory project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61655
+Successfully changed project path to: D:/Documents/Dad/GitHub/Programming-Theory-/Programming theory project
+D:/Documents/Dad/GitHub/Programming-Theory-/Programming theory project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Documents/Dad/GitHub/Programming-Theory-/Programming theory project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 Ti (ID=0x100a)
+    Vendor:   
+    VRAM:     3029 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56736
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002690 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.431 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000785 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.140 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1256 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.6 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1698.
+Total: 3.208100 ms (FindLiveObjects: 0.674500 ms CreateObjectMapping: 0.095100 ms MarkObjects: 2.313800 ms  DeleteObjects: 0.122000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Easy FPS/Scripts
+  artifactKey: Guid(5a837acd00c214fea8894a765f254d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Scripts using Guid(5a837acd00c214fea8894a765f254d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c1054431ac5f384b89e89bc92e235f8') in 0.060535 seconds
+  Import took 0.063272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Easy FPS
+  artifactKey: Guid(3d323b20bf61562428c2766c9d6f9a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS using Guid(3d323b20bf61562428c2766c9d6f9a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5c5c639bc6c4e113f0478d219bdced') in 0.015451 seconds
+  Import took 0.018174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.188738 seconds.
+  path: Assets/Easy FPS/Scripts/PlayerMovementScript.cs
+  artifactKey: Guid(97308ddfdff1d496cb759a41c819b13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Scripts/PlayerMovementScript.cs using Guid(97308ddfdff1d496cb759a41c819b13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100bbefb2d2c83230a1719cebfe62a2b') in 0.029895 seconds
+  Import took 0.033442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028737 seconds.
+  path: Assets/Easy FPS/Scripts/PlayerMovementScript.cs
+  artifactKey: Guid(97308ddfdff1d496cb759a41c819b13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Scripts/PlayerMovementScript.cs using Guid(97308ddfdff1d496cb759a41c819b13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100bbefb2d2c83230a1719cebfe62a2b') in 0.005485 seconds
+  Import took 0.008367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.054019 seconds.
+  path: Assets/Easy FPS/Prefabs
+  artifactKey: Guid(4883685d74f084286a09417f818f93f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Prefabs using Guid(4883685d74f084286a09417f818f93f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bcc50dcffd0be9ed233f04ab3212195') in 0.015058 seconds
+  Import took 0.017641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101178 seconds.
+  path: Assets/Easy FPS/Prefabs/bloodEffectParticlePrefab_melee.prefab
+  artifactKey: Guid(ffbf169ab9dcfdc45ae14010bc82a6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Prefabs/bloodEffectParticlePrefab_melee.prefab using Guid(ffbf169ab9dcfdc45ae14010bc82a6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e749712add367c119dc61c161d033f30') in 0.045218 seconds
+  Import took 0.047951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Easy FPS/Prefabs/Player.prefab
+  artifactKey: Guid(c391f12a928274acab8576bb6030641d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Prefabs/Player.prefab using Guid(c391f12a928274acab8576bb6030641d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237333dc9d459bd8561c6baaed86c5f7') in 0.507859 seconds
+  Import took 0.511044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Easy FPS/Prefabs/Bullet.prefab
+  artifactKey: Guid(c9e619a669d974fd28b5c89e43f2bce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Prefabs/Bullet.prefab using Guid(c9e619a669d974fd28b5c89e43f2bce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2bf2836291fd757473a1579e96b1ac6') in 0.039957 seconds
+  Import took 0.042804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Easy FPS/Prefabs/bulletHole.prefab
+  artifactKey: Guid(b2ac1383a96f94a50b7ed458be173bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Prefabs/bulletHole.prefab using Guid(b2ac1383a96f94a50b7ed458be173bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3560b265dbde8e5236e676a9e80c06c') in 0.132852 seconds
+  Import took 0.135062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.071061 seconds.
+  path: Assets/Easy FPS/Images/Materials/bloodColor.mat
+  artifactKey: Guid(8d9ea170b1f707e4b8c201442ccaf92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/Materials/bloodColor.mat using Guid(8d9ea170b1f707e4b8c201442ccaf92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0a3b7f6b2b251d3557a1cacb5ef3f8') in 0.253156 seconds
+  Import took 0.260104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005234 seconds.
+  path: Assets/Easy FPS/Images/Materials/bloodColor.mat
+  artifactKey: Guid(8d9ea170b1f707e4b8c201442ccaf92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/Materials/bloodColor.mat using Guid(8d9ea170b1f707e4b8c201442ccaf92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0a3b7f6b2b251d3557a1cacb5ef3f8') in 0.025085 seconds
+  Import took 0.030721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.387063 seconds.
+  path: Assets/Easy FPS/Resources
+  artifactKey: Guid(c149658a81ea04f7da722e67bf5e96c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Resources using Guid(c149658a81ea04f7da722e67bf5e96c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46034c0910426faf53d727207d86d8b3') in 0.014710 seconds
+  Import took 0.032785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062868 seconds.
+  path: Assets/Easy FPS/Resources/NewGun_auto.prefab
+  artifactKey: Guid(d263be518b43c45958a9fabf6650fd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Resources/NewGun_auto.prefab using Guid(d263be518b43c45958a9fabf6650fd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ace89f014d327382f3f4dceb9a146c') in 1.442583 seconds
+  Import took 1.447996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Easy FPS/Resources/NewGun_semi.prefab
+  artifactKey: Guid(52d7c5ee3e0cf43d9b5aab3e5df17e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Resources/NewGun_semi.prefab using Guid(52d7c5ee3e0cf43d9b5aab3e5df17e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23181278b0c4b94024f9a64eb978cd3') in 1.391753 seconds
+  Import took 1.398447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.764129 seconds.
+  path: Assets/Easy FPS/Resources/Weap_Icons
+  artifactKey: Guid(ae55a45f7c39b4310bafae4b924b6855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Resources/Weap_Icons using Guid(ae55a45f7c39b4310bafae4b924b6855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d88fc7295106afe6f5f0929b8c30b1b') in 0.022761 seconds
+  Import took 0.028669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.002102 seconds.
+  path: Assets/Easy FPS/Resources/Weap_Icons/NewGun_auto_img.png
+  artifactKey: Guid(4cc45e4dad006426e8c62aff1240b894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Resources/Weap_Icons/NewGun_auto_img.png using Guid(4cc45e4dad006426e8c62aff1240b894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2d0c01e8a0c06aad1be9f077e82b66') in 0.115401 seconds
+  Import took 0.118081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/Easy FPS/Resources/Weap_Icons/NewGun_semi_img.png
+  artifactKey: Guid(89cb17ce6d76c46668922c09a46b97a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Resources/Weap_Icons/NewGun_semi_img.png using Guid(89cb17ce6d76c46668922c09a46b97a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203c6113e659bcf5d39c7434f422d1f9') in 0.031760 seconds
+  Import took 0.034275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.685573 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures
+  artifactKey: Guid(8ddb7738b6ccaed42ad571375f006dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures using Guid(8ddb7738b6ccaed42ad571375f006dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcebc39be9f775063f0ee6a726ca91d2') in 0.011683 seconds
+  Import took 0.014551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000992 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures
+  artifactKey: Guid(8ddb7738b6ccaed42ad571375f006dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures using Guid(8ddb7738b6ccaed42ad571375f006dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcebc39be9f775063f0ee6a726ca91d2') in 0.003557 seconds
+  Import took 0.006537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.923687 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures/main character
+  artifactKey: Guid(1433ee16f7924b14f9fc7311ecf3c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures/main character using Guid(1433ee16f7924b14f9fc7311ecf3c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27875120acce6e1d4bb9a93dad467286') in 0.011546 seconds
+  Import took 0.014544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures/main character
+  artifactKey: Guid(1433ee16f7924b14f9fc7311ecf3c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures/main character using Guid(1433ee16f7924b14f9fc7311ecf3c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27875120acce6e1d4bb9a93dad467286') in 0.004733 seconds
+  Import took 0.007518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047352 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures/main character/FPS_Character.fbx
+  artifactKey: Guid(6cae2f82a0a62ff4ab9be3eeeda19688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures/main character/FPS_Character.fbx using Guid(6cae2f82a0a62ff4ab9be3eeeda19688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab489db1625f5efeccfca416c483ee1') in 0.175465 seconds
+  Import took 0.180275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures/main character/FPS_Character_prefab.prefab
+  artifactKey: Guid(13c46916fa552fb4e846d566e8b3a073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures/main character/FPS_Character_prefab.prefab using Guid(13c46916fa552fb4e846d566e8b3a073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '421481d913aa974afec65d056889e897') in 0.043617 seconds
+  Import took 0.046639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.215900 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures/main character/Materials
+  artifactKey: Guid(eeeeb7cf4b33ddb4e86ef942acd3ccd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures/main character/Materials using Guid(eeeeb7cf4b33ddb4e86ef942acd3ccd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb3aa57ba68ddffae525b4346e3b5889') in 0.016796 seconds
+  Import took 0.020062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.497691 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures/main character/Textures
+  artifactKey: Guid(8a2674fce30c94f419ef3ddf5c3bc7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures/main character/Textures using Guid(8a2674fce30c94f419ef3ddf5c3bc7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c217ad17419fbaa8926a40af4059e1a') in 0.015517 seconds
+  Import took 0.018147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.582656 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures/main character/Materials/Gun_Material.mat
+  artifactKey: Guid(8f5c42afab7b135488b8d6815747503e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures/main character/Materials/Gun_Material.mat using Guid(8f5c42afab7b135488b8d6815747503e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a38f81bf23cfb3ba25a29a4261747f7') in 0.018994 seconds
+  Import took 0.021856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures/main character/Materials/Hands_Material.mat
+  artifactKey: Guid(565a3425a1d18224da864f597f3c22db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures/main character/Materials/Hands_Material.mat using Guid(565a3425a1d18224da864f597f3c22db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93c04d0e7ca3c9472bb332da8e8ecad6') in 0.027737 seconds
+  Import took 0.030603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Easy FPS/Model_Animations_Textures/main character/Materials/Sword_Material.mat
+  artifactKey: Guid(fab18c70ffa50cc43bb35e8ed62aba45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Model_Animations_Textures/main character/Materials/Sword_Material.mat using Guid(fab18c70ffa50cc43bb35e8ed62aba45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d530a3f6e4d2e5fbceff8e8b4ecbe3') in 0.029307 seconds
+  Import took 0.031684 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000784 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1249 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.9 MB.
+System memory in use after: 79.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1753.
+Total: 1.999500 ms (FindLiveObjects: 0.187800 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.706200 ms  DeleteObjects: 0.066500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000906 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1249 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.9 MB.
+System memory in use after: 80.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1756.
+Total: 2.156300 ms (FindLiveObjects: 0.417300 ms CreateObjectMapping: 0.038600 ms MarkObjects: 1.632500 ms  DeleteObjects: 0.065900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000871 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.969 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1249 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.9 MB.
+System memory in use after: 80.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1759.
+Total: 2.177400 ms (FindLiveObjects: 0.191200 ms CreateObjectMapping: 0.039100 ms MarkObjects: 1.879100 ms  DeleteObjects: 0.066200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.346502 seconds.
+  path: Assets/Easy FPS/Scripts/MouseLookScript.cs
+  artifactKey: Guid(f828f55f50faf4017b1bfaaca53ebd71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Scripts/MouseLookScript.cs using Guid(f828f55f50faf4017b1bfaaca53ebd71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff9c705e402b7ae7ac766e864a17d0d') in 0.019219 seconds
+  Import took 0.022263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.951245 seconds.
+  path: Assets/Easy FPS/Scripts/GunScript.cs
+  artifactKey: Guid(a804723bdccf04fca985e160ab5f88d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Scripts/GunScript.cs using Guid(a804723bdccf04fca985e160ab5f88d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0d008e350d83ef0aa3eb60804b1167') in 0.011866 seconds
+  Import took 0.014551 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001012 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1249 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.9 MB.
+System memory in use after: 80.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1762.
+Total: 2.000900 ms (FindLiveObjects: 0.199600 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.705900 ms  DeleteObjects: 0.059200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1249 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.9 MB.
+System memory in use after: 80.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1765.
+Total: 2.163600 ms (FindLiveObjects: 0.193700 ms CreateObjectMapping: 0.041600 ms MarkObjects: 1.860400 ms  DeleteObjects: 0.066200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 171.801636 seconds.
+  path: Assets/Easy FPS/MuzzelFlash
+  artifactKey: Guid(388b8e363a6d14018b980f0a7537acd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/MuzzelFlash using Guid(388b8e363a6d14018b980f0a7537acd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773bd2725b4965452c2840c1d2fd47c8') in 0.016081 seconds
+  Import took 0.019244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.362881 seconds.
+  path: Assets/Easy FPS/Images
+  artifactKey: Guid(e22a8bc6f343240e9b332830f093b573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images using Guid(e22a8bc6f343240e9b332830f093b573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2213149aa904b71ac91f13c7679fcf7e') in 0.010639 seconds
+  Import took 0.013328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058338 seconds.
+  path: Assets/Easy FPS/Images/bluegrid.png
+  artifactKey: Guid(941baee21d2f342e2bef70ff3d0ea6f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/bluegrid.png using Guid(941baee21d2f342e2bef70ff3d0ea6f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b276c4a0ff1bf44010d64128aa06315d') in 0.048033 seconds
+  Import took 0.050674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Easy FPS/Images/horizon_crosshir.png
+  artifactKey: Guid(e1aa4c90445944348a112c3b7fa4b318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/horizon_crosshir.png using Guid(e1aa4c90445944348a112c3b7fa4b318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e598af1478bb143da66d1a8c44da7846') in 0.018397 seconds
+  Import took 0.021484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Easy FPS/Images/vertical_crosshir.png
+  artifactKey: Guid(3f8b669e9880644cbb903f67bbc9f824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/vertical_crosshir.png using Guid(3f8b669e9880644cbb903f67bbc9f824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce505633d4e18a72928c60321bd350c') in 0.016882 seconds
+  Import took 0.019438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Easy FPS/Images/bulllet_hole.png
+  artifactKey: Guid(2026a6500a4444ec692f3e43ab5ffd5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/bulllet_hole.png using Guid(2026a6500a4444ec692f3e43ab5ffd5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59974a1455e1777989cf15c06c0a409') in 0.015998 seconds
+  Import took 0.018785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.112019 seconds.
+  path: Assets/Easy FPS/Images/Materials
+  artifactKey: Guid(a9a73737e80c9ad4a8f55ab65fc9d841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/Materials using Guid(a9a73737e80c9ad4a8f55ab65fc9d841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f2898cf75ff190858e3225aec4d9b2') in 0.004619 seconds
+  Import took 0.007789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057853 seconds.
+  path: Assets/Easy FPS/Images/Materials/bloodColor 1.mat
+  artifactKey: Guid(a20942e81d0fbc640827d53010889c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/Materials/bloodColor 1.mat using Guid(a20942e81d0fbc640827d53010889c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731bccb9981c7f3896da8613bab945fd') in 0.053350 seconds
+  Import took 0.056125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Easy FPS/Images/Materials/bluegrid.mat
+  artifactKey: Guid(d61579b9d3e87427ebfa66fd56911885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/Materials/bluegrid.mat using Guid(d61579b9d3e87427ebfa66fd56911885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e29852eb9d1e9f047ca0005843968448') in 0.018441 seconds
+  Import took 0.021204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Easy FPS/Images/Materials/bulllet_hole.mat
+  artifactKey: Guid(baf17cf72977f4721af5e2617d2f478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/Materials/bulllet_hole.mat using Guid(baf17cf72977f4721af5e2617d2f478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e399b73a267c178a113ae85f0967bc1') in 0.021433 seconds
+  Import took 0.026021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005063 seconds.
+  path: Assets/Easy FPS/Images/Materials/bulllet_hole.mat
+  artifactKey: Guid(baf17cf72977f4721af5e2617d2f478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/Images/Materials/bulllet_hole.mat using Guid(baf17cf72977f4721af5e2617d2f478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e399b73a267c178a113ae85f0967bc1') in 0.017101 seconds
+  Import took 0.020179 seconds .
+
