@@ -3,6 +3,8 @@ using System.Collections;
 
 public class BulletScript : MonoBehaviour {
 
+	
+	
 	[Tooltip("Furthest distance bullet will look for target")]
 	public float maxDistance = 1000000;
 	RaycastHit hit;
@@ -30,6 +32,20 @@ public class BulletScript : MonoBehaviour {
 				}
 				if(hit.transform.tag == "Dummie"){
 					Instantiate(bloodEffect, hit.point, Quaternion.LookRotation(hit.normal));
+					Destroy(gameObject);
+				}
+				if(hit.transform.CompareTag("Zombie"))
+                {
+					Instantiate(bloodEffect, hit.point, Quaternion.LookRotation(hit.normal));
+					
+					EventManager.HitCall("Zombie");
+					Destroy(gameObject);
+				}
+				if (hit.transform.CompareTag("HeadShot"))
+				{
+					Instantiate(bloodEffect, hit.point, Quaternion.LookRotation(hit.normal));
+					
+					EventManager.HitCall("HeadShot");
 					Destroy(gameObject);
 				}
 			}		
